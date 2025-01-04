@@ -8,21 +8,23 @@ namespace LAB1_PhamGiaBao
 {
     internal class Problem2
     {
-        public static void Main(string[] args)
-        {
-            int dividend = Convert.ToInt32(Console.ReadLine());
-            int divisor = Convert.ToInt32(Console.ReadLine());
-            if (Math.Pow(-2, 31) <= dividend || divisor <= Math.Pow(2, 31) + 1)
-            {
-                int result = divide(dividend, divisor);
-                Console.WriteLine(result);
-            }
-            else
-            {
-                Console.WriteLine("Wrong Input");
+        //1 lan build chay duoc 1 main nen em comment may cai main nay nha thay:3
 
-            }
-        }
+        /* public static void Main(string[] args)
+         {
+             int dividend = Convert.ToInt32(Console.ReadLine());
+             int divisor = Convert.ToInt32(Console.ReadLine());
+             if (Math.Pow(-2, 31) <= dividend || divisor <= Math.Pow(2, 31) + 1)
+             {
+                 int result = divide(dividend, divisor);
+                 Console.WriteLine(result);
+             }
+             else
+             {
+                 Console.WriteLine("Wrong Input");
+
+             }
+         }*/
 
         public static int divide(int dividend, int divisor)
         {

@@ -53,7 +53,7 @@ namespace LAB1_PhamGiaBao
 
             throw new InvalidOperationException("Input arrays are not sorted.");
         }
-
+        //1 lan build chay duoc 1 main nen em comment may cai main nay nha thay:3
         /*public static void Main(string[] args)
         {
             Console.WriteLine("Enter elements of the first sorted array (comma-separated, within -10^6 to 10^6): ");
