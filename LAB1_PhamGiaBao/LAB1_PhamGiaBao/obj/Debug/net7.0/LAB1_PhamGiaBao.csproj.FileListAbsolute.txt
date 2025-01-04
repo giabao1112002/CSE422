@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\bin\Debug\net7.0\LAB1_PhamGiaBao.exe
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\bin\Debug\net7.0\LAB1_PhamGiaBao.deps.json
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\bin\Debug\net7.0\LAB1_PhamGiaBao.runtimeconfig.json
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\bin\Debug\net7.0\LAB1_PhamGiaBao.dll
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\bin\Debug\net7.0\LAB1_PhamGiaBao.pdb
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.AssemblyInfo.cs
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.dll
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\refint\LAB1_PhamGiaBao.dll
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.pdb
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\LAB1_PhamGiaBao.genruntimeconfig.cache
+C:\Users\Student\Desktop\CSE422\LAB1_PhamGiaBao\LAB1_PhamGiaBao\obj\Debug\net7.0\ref\LAB1_PhamGiaBao.dll
